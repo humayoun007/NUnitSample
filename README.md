@@ -6,5 +6,5 @@ This project is a sample of applying NUnit on a c# project
 2. NUnit (for this project 3.12.0)
 3. NUnit3TestAdapter (for visual studio 3.16.1)
 
-## Secondly you may need to add reference after remove reference (if you get some build errors)
+## Secondly you may need to add reference after removing the reference (if some cases you get some build errors)
 1. Add reference to CurrencyLib project (if build fails)
