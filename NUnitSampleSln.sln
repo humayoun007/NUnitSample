@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnitSample", "NUnitSample\NUnitSample.csproj", "{A5FDE27B-0BE7-4712-B163-99E50C146073}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurrencyLib", "CurrencyLib\CurrencyLib.csproj", "{A504B18B-A3F4-4D1F-85B4-E1927DC0E896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5FDE27B-0BE7-4712-B163-99E50C146073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5FDE27B-0BE7-4712-B163-99E50C146073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5FDE27B-0BE7-4712-B163-99E50C146073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5FDE27B-0BE7-4712-B163-99E50C146073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A504B18B-A3F4-4D1F-85B4-E1927DC0E896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A504B18B-A3F4-4D1F-85B4-E1927DC0E896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A504B18B-A3F4-4D1F-85B4-E1927DC0E896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A504B18B-A3F4-4D1F-85B4-E1927DC0E896}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F44280BB-93E0-47B5-818D-2B23C9DC76D2}
+	EndGlobalSection
+EndGlobal
