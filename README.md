@@ -1,6 +1,8 @@
 # NUnitSample
 This project is a sample of applying NUnit on a c# project
 
+![](NUnitSample.gif)
+
 ## To run this project you need 3 nuget package manager
 1. Microsoft.NET.Test.SDK (for this project 16.4.0)
 2. NUnit (for this project 3.12.0)
